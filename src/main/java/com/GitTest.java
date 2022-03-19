@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("加油 ~ just do yourself");
         System.out.println("111111111111111111");
         System.out.println("3333333333333333333");
+        System.out.println("22222222222222222222");
     }
 
 }

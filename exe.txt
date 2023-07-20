@@ -1,4 +1,0 @@
-hello world 
-public static void main
-isdkgs
-hello world!
